@@ -9,3 +9,4 @@
 ## Tecnologia
 
   - Linguagem Java
+  - NetBeans
